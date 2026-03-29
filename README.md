@@ -40,6 +40,12 @@ The program produces:
 - Number of classes required
 - Pie chart visualization
 - Study plan for subjects
+  
+---
+
+## Screenshots
+![Output](screenshots/output.png)
+![Graph](screenshots/graph.png)
 
 ---
 
